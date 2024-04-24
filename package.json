@@ -1,0 +1,16 @@
+{
+  "name": "@m.haseeb/word-counter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Haseeb Mustafa",
+  "license": "MIT"
+}
