@@ -12,5 +12,11 @@
   },
   "keywords": [],
   "author": "Haseeb Mustafa",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
 }
